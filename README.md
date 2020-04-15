@@ -1,7 +1,8 @@
 # Unity-Firebase-Leaderboard-Scripts-Only.-SHOWCASE
-Exciting Showcase! My C# Unity Classes for a Google Firebase Database with UI handling and Authentication
 
-SHOWCASE ONLY COPYRIGHT TO MEDIAHIVE LIMITED, AUTHOR SEAN Z
+My C# Unity Classes for a Google Firebase Database with UI handling and Authentication
+
+SHOWCASE ONLY, COPYRIGHT TO MEDIAHIVE LIMITED, AUTHOR SEAN Z
 
 LICENSING PLEASE CONTACT: secure[emailsymhere]eozmon[lotcom]
 
