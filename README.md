@@ -4,7 +4,7 @@ My C# Unity Classes for a Google Firebase Database with UI handling and Authenti
 
 #### As this is a showcase, only a portion of the code is included
 
-### Show case only, Author Sean Z
+Author Sean Z
 
 For licensing / custom implementation in your project please contact: secure[emailsymhere]eozmon[lotcom]
 
